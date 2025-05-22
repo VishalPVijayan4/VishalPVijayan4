@@ -46,8 +46,11 @@
 
 ## 📈 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalPVijayan4&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalPVijayan4&layout=compact&theme=tokyonight)
+[![Vishal's GitHub Streak](https://streak-stats.demolab.com/?user=VishalPVijayan4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Vishal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalPVijayan4&bg_color=1a1b27&color=9f9f9f&line=5be3b5&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalPVijayan4&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
