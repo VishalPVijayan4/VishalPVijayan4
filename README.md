@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [vishalpvijayan711@hotmail.com](mailto:vishalpvijayan711@hotmail.com)
-- 💼 [LinkedIn (Add yours here)](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn (Vishal P Vijayan)](https://www.linkedin.com/in/vishal-p-vijayan-128429132/)
 - ✍️ [Medium Blog](https://medium.com/@vishalpvijayan4)
 - 🎥 [YouTube - buildNdeploy](https://www.youtube.com/@buildndeploy)
 
