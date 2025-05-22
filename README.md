@@ -2,7 +2,7 @@
 
 🎯 **Android & Flutter Developer** with 4+ years of experience  
 📍 Bengaluru, India  
-📫 [Email](mailto:vishalpvijayan711@hotmail.com) | 📱 +91-6361777579  
+📫 [Email](mailto:vishalpvijayan711@hotmail.com)   
 ✍️ [Medium](https://medium.com/@vishalpvijayan4) | 🎥 [YouTube](https://www.youtube.com/@buildndeploy)
 
 ---
@@ -16,6 +16,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-DI-8B0000?style=for-the-badge&logo=dagger&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Principle-blueviolet?style=for-the-badge)
+
 
 ---
 
